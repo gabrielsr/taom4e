@@ -1,0 +1,6 @@
+#summary Propose features for the next release
+
+  * Automatic layout and arrangements 
+  * Interoperability with UML and other tools 
+  * Code generation extension 
+  * Test generation extension
