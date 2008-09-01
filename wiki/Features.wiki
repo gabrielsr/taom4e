@@ -1,0 +1,8 @@
+#summary One-sentence summary of this page.
+
+= Features of the current release 0.6=
+
+  * Modeling actors, goals analysis at early and late requirement phases
+  * Modeling system actor architecture
+  * Exporting diagrams
+ 
