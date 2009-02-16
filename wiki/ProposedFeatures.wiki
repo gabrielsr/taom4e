@@ -1,4 +1,4 @@
-#summary Propose features for the next release
+#summary Propose features for the next release, TAOM4E 1.0
 
   * Automatic layout and arrangements 
   * Interoperability with UML and other tools 
