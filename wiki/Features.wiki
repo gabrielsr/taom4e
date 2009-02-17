@@ -1,6 +1,16 @@
-#summary Features of the current release 0.6
+#summary Features of the release 0.6
 
   * Modeling actors, goals analysis at early and late requirement phases
   * Modeling system actor architecture
   * Exporting diagrams
- 
+  * Exporting the capability table
+  * Generating Jadex XML ADF and Java Code (t2x tool)
+  * (removed: UML capability design support and Jade code generation)
+  * Running Jadex and generated agents integrated to the Eclipse platform
+  * Simple API (TroposNavigator) to access .tropos files outside the Eclipse plug-in framework.
+
+#summary Features of the current release 0.6.3.1 (demo at ASE, September 2008) 
+
+  * added: environment model support
+  * added: condition specification for goals
+  * improved: Jadex agent generation is now extended to conditions, goal types and environmental entities in the belief base.
