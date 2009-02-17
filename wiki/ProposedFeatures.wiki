@@ -1,12 +1,12 @@
 #summary Propose features for the next release, TAOM4E 1.0
 
   * Automatic layout and arrangements 
-  * Interoperability with UML and other tools 
-  * Code generation extension 
+  * Interoperability with UML and other tools
+  * Code generation extension (included in Taom4E 0.6 [Mirko])
   * Test generation extension
 
 
-(Mirko)My proposed high-priority "features": 
+[Mirko]: My proposed high-priority "features": 
 
 - no "featuritis" 
 
