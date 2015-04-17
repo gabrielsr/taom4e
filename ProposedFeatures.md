@@ -1,0 +1,16 @@
+[Mirko](Mirko.md): My proposed high-priority "features":
+
+- no "featuritis"
+
+- a stable modeller
+
+- user frendly and easy to install for students
+
+- guides through the methodology (as Jorge Gomez said: the tool defines the methodology - or: we have a good tool if it can do the things mentioned in the methodology (not less and not more).
+
+- an API to the files (as there is something also now) that can be simply used to work with Tropos files, also outside Eclipse plugins. This saves a lot of work on the "extensions" parts that do not need a graphical interface - yust do in the old Unix way and work on files.
+
+- A well-documented border between generated and hand-written code and the possibility to re-generate the code and run it without problems: Warrantees that the metamodel and graphical models can be changed.
+
+
+- one important additional feature: a complete graphical view of all the model objects and Zoom features.
